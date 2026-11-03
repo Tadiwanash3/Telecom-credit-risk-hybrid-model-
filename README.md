@@ -39,3 +39,35 @@ Python, XGBoost, lifelines, scikit-learn, SHAP, Streamlit
 
 ## Author
 Tadiwanashe Makwangudze, Financial Engineering graduate, Harare, Zimbabwe
+
+## How it works
+
+
+![System flowchart](system-flowchart.png)
+
+
+
+## Screenshots
+
+
+![Login](login-screen.png)
+
+
+
+
+![Risk assessment](risk-assessment-interface.png)
+
+
+
+
+![Risk output](risk-assessment-output.png)
+
+
+
+
+![Asset protection](asset-protection-strategy.png)
+
+
+
+
+![Portfolio dashboard](portfolio-dashboard.png)
